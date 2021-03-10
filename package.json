@@ -1,0 +1,48 @@
+{
+  "name": "vita-tent",
+  "version": "1.0.0",
+  "description": "vita-tent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Avdeev",
+  "license": "ISC",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.3.2",
+    "bootstrap": "^4.4.1",
+    "browser-sync": "^2.26.7",
+    "csso": "^4.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-htmllint": "0.0.16",
+    "gulp-htmltidy": "^0.2.4",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-stylelint": "^13.0.0",
+    "html-tidy": "0.0.1",
+    "imagemin": "^7.0.1",
+    "jshint": "^2.11.0",
+    "owl.carousel": "^2.3.4",
+    "require": "^2.4.20",
+    "sass": "^1.25.0",
+    "scss-lint": "0.0.0",
+    "slick-carousel": "^1.8.1",
+    "stylelint": "^13.2.0",
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
